@@ -1,0 +1,8 @@
+Citizen.CreateThread(function()
+	AddTextEntryByHash(`cusgranger`, "GRANGER CUS")
+	AddTextEntryByHash(`cusmesa`, "MESA CUS")
+	AddTextEntryByHash(`cuselegy`, "ELEGY CUS")
+	AddTextEntryByHash(`custruck`, "TRUCK CUS")
+	AddTextEntryByHash(`cusrocoto`, "ROCOTO CUS")
+	AddTextEntryByHash(`cussedan`, "SEDAN CUS")
+end)
